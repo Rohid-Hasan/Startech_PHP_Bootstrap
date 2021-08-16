@@ -1,0 +1,24 @@
+.cart-item-heading{
+    background-color: #F5F7F9;
+}
+
+.image{
+    padding:10px;
+}
+
+.product-name{
+    width:40em;
+    margin-left:3em;
+}
+
+.product-quantity{
+    width:10em;
+}
+
+.product-unit-price{
+    width:10em;
+}
+
+.single-item{
+    margin-top:2em;
+}
